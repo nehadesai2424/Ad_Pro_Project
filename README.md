@@ -88,7 +88,7 @@ This will create required tables and optional sample data.
 
 ---
 
-## Export to Excel (Optional Feature)
+## Export to Excel
 
 If implemented, the ad list can be exported as an Excel file using libraries like `xlsx` in React.
 
