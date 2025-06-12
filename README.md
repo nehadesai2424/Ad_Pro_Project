@@ -73,7 +73,7 @@ npm run dev
 
 ---
 
-## 🛠️ Database Setup
+##  Database Setup
 
 1. Open your MySQL client (e.g., phpMyAdmin, Workbench, or CLI).
 2. Create a new database:
